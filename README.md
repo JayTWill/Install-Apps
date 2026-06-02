@@ -1,2 +1,3 @@
-# Install-Apps
-A script created to simplify app installs on a new Windows computer using Windows' package manager called 'WinGet’.
+# 📦 Install-Apps Script
+
+⚡ The purpose of this script was to simplify a Windows machine setup 💨. This script uses [WinGet](https://learn.microsoft.com/en-us/windows/package-manager/) to silently install my core apps — 7-Zip, Discord, Spotify, Steam, LocalSend, Revo Uninstaller, Chrome, TreeSize, Everything, and Logitech G HUB — then grabs a few that aren't on WinGet (HWiNFO, NVIDIA App, Rockstar Launcher) using direct download links. Also creates shortcuts for the Intel Platform Performance Package and motherboard drivers so I don't forget them. This is a personal script placed here for demonstrative purposes.
